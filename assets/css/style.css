@@ -1,0 +1,15 @@
+/* Center align the text within the three columns */
+.livedemos {
+  margin-top: 50px;
+}
+.livedemos .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.livedemos h2 {
+  font-weight: normal;
+}
+.livedemos .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
